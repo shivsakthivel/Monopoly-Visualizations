@@ -18,3 +18,5 @@ The third party modules used in this project are (Their installations are writte
 8. `networkD3`
 
 The interactive visualizations produced in the project can be found [here.](https://shivsakthivel.github.io/Visualizations/)
+
+The project report can be found [here.](https://shivsakthivel.github.io/Monopoly-Visualizations/Monopoly_Report.pdf)
